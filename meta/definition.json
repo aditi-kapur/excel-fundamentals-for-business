@@ -192,14 +192,15 @@
         "description": "Microsoft Excel is the world's most used and versatile business analysis, reporting and strategy software. Having a deep practical knowledge of Excel will make you exceptional at work and increase your productivity. You will be seen as a very efficient, highly competent and indispensable partner in the organization's progress.",
         "thumbnailsmall": "cover.png",
         "title": "Excel Fundamentals for Business",
-        "code": "AFDGS5294G",
+        "code": "excelfundamentalsforbusiness",
         "producttype": "courseware",
         "model": {
             "type": "ittoolscourse",
             "textbookISBN": "9852147846",
             "textbook": "Skills for Success with Microsoft Excel 2016 Comprehensive",
             "series": "Skills for Success",
-            "application": "Excel"
+            "application": "Excel",
+            "courseId": "AFDGS5294G"
         }
     },
     "resources": {
